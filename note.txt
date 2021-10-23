@@ -1,0 +1,4 @@
+image source: https://opengameart.org/content/snake-game-assets
+sound: https://freesound.org/people/MATRIXXX_/sounds/348112/
+
+https://www.stockio.com/free-icon/lobo-icon-set-dynamite

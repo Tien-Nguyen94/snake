@@ -1,0 +1,59 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+  }
+
+  body {
+    /* background: black;  */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .main {
+    /* background-color: #ffe5d1; */
+    border: 10px solid black;
+    border-radius: 20px;
+    background-image:url("../assets/board.png");
+  }
+  .left {
+    width: 30%;
+    height: 100%;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction:column;
+  }
+  .listmember {
+    list-style-type:none;
+    font-size: 30px;
+    align-items: left;
+    justify-items: center;
+  }
+  h1{
+    font-size: 40px;
+  }
+  .right {
+    width: 30%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction:column;
+  }
+  .score{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction:column;
+  }
+  #score {
+    font-size: 30px;
+    text-align: center;
+  }
+  #hscore {
+    font-size: 30px;
+    text-align: center;
+  }
